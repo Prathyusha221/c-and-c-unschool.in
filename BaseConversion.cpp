@@ -36,7 +36,7 @@ void base_conversion(){
     cin>>n1;
     cout<<"\n\nWhat is the base of this number? : ";
     cin>>b1;
-    cout<<"Enter the base of new integer : ";
+    cout<<"\nEnter the base of new integer : ";
     cin>>b2;
     if(b1!=10){
         num=actual_num(n1,b1);
